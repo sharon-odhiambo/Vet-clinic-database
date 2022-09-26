@@ -57,3 +57,5 @@ CREATE TABLE visits (
     vets_id INTEGER REFERENCES vets (id), 
     date_of_visit date
     );
+
+ALTER TABLE owners ALTER COLUMN age INT;
