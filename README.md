@@ -17,7 +17,16 @@ This repository includes files with plain SQL that can be used to recreate a dat
 - Twitter: [@SharonVictor16](https://twitter.com/sharonvictor16)
 - LinkedIn: [Sharon Odhiambo](https://www.linkedin.com/in/sharonn-odhiambo/)
 
+
+👤 **Esmatullah Ahmadzai (Esmat)**
+
+- GitHub: [@Esmatullah Ahamdzai](https://github.com/eaesmat)
+- Twitter: [@Esmatullah Ahamdzai](https://twitter.com/ea_ahmadzai)
+- LinkedIn: [@Esmatullah Ahamdzai](https://www.linkedin.com/in/esmatullah-ahmadzai/)
+
+
 ## 🤝 Contributing
+
 
 Contributions, issues, and feature requests are welcome!
 
