@@ -59,3 +59,7 @@ CREATE TABLE visits (
     );
 
 ALTER TABLE owners ALTER COLUMN age INT;
+CREATE INDEX animal_visits_id ON visits (animals_id ASC); 
+CREATE INDEX animal_vets_id ON visits (vets_id ASC); 
+CREATE INDEX animal_visits_number ON visits (animals_id ASC); 
+CREATE INDEX animal_owners_id ON owners (id ASC); 
