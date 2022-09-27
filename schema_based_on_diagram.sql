@@ -20,4 +20,5 @@ CREATE TABLE invoices (
     PRIMARY KEY (id)
    );
    CREATE TABLE treatments ( id INT NOT NULL GENERATED ALWAYS AS IDENTITY, type VARCHAR NOT NULL, name VARCHAR(20), PRIMARY KEY (id) );
+   
    CREATE TABLE invoice_items ( id INT NOT NULL GENERATED ALWAYS AS IDENTITY, unit_price decimal, quantity int, total_price decimal, invoice_id INT NOT NULL REFERENCES invoices (id), treatment_id INT NOT NULL REFERENCES treatments (id), PRIMARY KEY (id) ); 
